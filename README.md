@@ -8,7 +8,7 @@ I'm currently looking for a 486-hour IT or Cybersecurity OJT opportunity where I
 
 ### Projects
 
-**XTECT - An Ensemble-Based Chrome Extension for Multi-Layer Threat Detection to Mitigate Phishing Threats in an Insurance Organization.**
+**XTECT - Multi-Layer Phishing Detection Chrome Extension.**
 
 A collaborative academic capstone focused on phishing detection using URL analysis, DOM inspection, whitelist verification, and ensemble-based risk assessment.
 
@@ -16,7 +16,7 @@ My contributions included research, requirements analysis, feature planning, Chr
 
 [View Project on GitHub](https://github.com/trisha-diaz/xtect-phishing-detection-capstone-project)
 
-### Extracurricular & Certificates
+### Training & Activities
 
 - SOC Mentorship - DysruptIT
 - Cyber Threat Management - Cisco Networking Academy
@@ -24,6 +24,4 @@ My contributions included research, requirements analysis, feature planning, Chr
 - Digital Safety and Security Awareness - Cisco Networking Academy
 
 ### Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/trisha-diaz/
-- Email: trishaperezdiaz@gmail.com
+    LinkedIn: https://www.linkedin.com/in/trisha-diaz/
