@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Trisha Diaz!
 
-<!--
-**trisha-diaz/trisha-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year BS Information Technology student specializing in Cybersecurity at De La Salle Lipa.
 
-Here are some ideas to get you started:
+I'm interested in defensive cybersecurity, particularly security monitoring, threat investigation, SOC operations, Identity and Access Management (IAM), and Governance, Risk, and Compliance (GRC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for a 486-hour IT or Cybersecurity OJT opportunity where I can apply what I've learned, gain practical experience, and further develop my technical skills.
+
+### Projects
+
+**XTECT - An Ensemble-Based Chrome Extension for Multi-Layer Threat Detection to Mitigate Phishing Threats in an Insurance Organization.**
+
+A collaborative academic capstone focused on phishing detection using URL analysis, DOM inspection, whitelist verification, and ensemble-based risk assessment.
+
+My contributions included research, requirements analysis, feature planning, Chrome extension testing, dashboard monitoring and testing, and technical documentation.
+
+[View Project on GitHub](https://github.com/trisha-diaz/xtect-phishing-detection-capstone-project)
+
+### Extracurricular & Certificates
+
+- SOC Mentorship – DysruptIT
+- Cyber Threat Management – Cisco Networking Academy
+- Data Analytics Essentials – Cisco Networking Academy
+- Digital Safety and Security Awareness – Cisco Networking Academy
+
+### Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/trisha-diaz/
+- Email: trishaperezdiaz@gmail.com
