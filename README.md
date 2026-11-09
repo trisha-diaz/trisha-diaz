@@ -18,10 +18,10 @@ My contributions included research, requirements analysis, feature planning, Chr
 
 ### Extracurricular & Certificates
 
-- SOC Mentorship – DysruptIT
-- Cyber Threat Management – Cisco Networking Academy
-- Data Analytics Essentials – Cisco Networking Academy
-- Digital Safety and Security Awareness – Cisco Networking Academy
+- SOC Mentorship - DysruptIT
+- Cyber Threat Management - Cisco Networking Academy
+- Data Analytics Essentials - Cisco Networking Academy
+- Digital Safety and Security Awareness - Cisco Networking Academy
 
 ### Connect with Me
 
